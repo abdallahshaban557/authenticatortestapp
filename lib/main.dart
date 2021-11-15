@@ -1,6 +1,9 @@
+import 'package:amplify_flutter/amplify.dart';
+import 'package:authenticatortestapp/screens/homepage.dart';
 import 'package:flutter/material.dart';
 import 'package:amplify_authenticator/amplify_authenticator.dart';
 import 'helpers/amplify_service.dart';
+import 'package:amplify_auth_cognito/amplify_auth_cognito.dart';
 
 void main() {
   runApp(const MyApp());
@@ -54,8 +57,8 @@ class _MyHomePageState extends State<MyHomePage> {
 
   bool _isAmplifyConfigured = false;
 
-  final authenticator = Authenticator(
-    child: const Text('You are logged in!'),
+  Widget authenticator = Authenticator(
+    child: HomePageScreen(),
   );
 
   @override

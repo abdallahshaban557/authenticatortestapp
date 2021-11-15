@@ -41,5 +41,18 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>CFBundleURLTypes</key>
+     <array>
+         <dict>
+             <key>CFBundleURLSchemes</key>
+             <array>
+                 <string>https://authenticatortestapp84ec5243-84ec5243-dev.auth.us-west-2.amazoncognito.com/</string>
+             </array>
+         </dict>
+     </array>
 </dict>
+
+
+
+
 </plist>
