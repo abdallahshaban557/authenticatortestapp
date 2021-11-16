@@ -46,7 +46,7 @@
          <dict>
              <key>CFBundleURLSchemes</key>
              <array>
-                 <string>https://authenticatortestapp84ec5243-84ec5243-dev.auth.us-west-2.amazoncognito.com/</string>
+                 <string>MyApp</string>
              </array>
          </dict>
      </array>

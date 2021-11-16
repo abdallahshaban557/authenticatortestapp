@@ -11,8 +11,10 @@ class HomePageScreen extends StatefulWidget {
 class _HomePageScreenState extends State<HomePageScreen> {
   @override
   Widget build(BuildContext context) {
-    return Column(
-      children: const [Text('testing this out'), SignOutButton()],
+    return Scaffold(
+      body: Column(
+        children: const [Text('testing this out'), SignOutButton()],
+      ),
     );
   }
 }
