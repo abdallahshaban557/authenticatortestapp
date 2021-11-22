@@ -3,9 +3,9 @@ PODS:
     - Amplify/Default (= 1.15.5)
   - Amplify/Default (1.15.5)
   - amplify_auth_cognito (0.0.1):
-    - Amplify (~> 1.15.3)
+    - Amplify (~> 1.15.5)
     - amplify_core
-    - AmplifyPlugins/AWSCognitoAuthPlugin (~> 1.15.3)
+    - AmplifyPlugins/AWSCognitoAuthPlugin (~> 1.15.5)
     - Flutter
     - ObjectMapper
   - amplify_core (0.0.1):
@@ -13,10 +13,10 @@ PODS:
     - SwiftFormat/CLI
     - SwiftLint
   - amplify_flutter (0.0.1):
-    - Amplify (~> 1.15.3)
+    - Amplify (~> 1.15.5)
     - amplify_core
-    - AmplifyPlugins/AWSCognitoAuthPlugin (~> 1.15.3)
-    - AWSPluginsCore (~> 1.15.3)
+    - AmplifyPlugins/AWSCognitoAuthPlugin (~> 1.15.5)
+    - AWSPluginsCore (~> 1.15.5)
     - Flutter
     - SwiftFormat/CLI
     - SwiftLint
@@ -79,9 +79,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Amplify: 4d248001a7fe2fe3707cb280c8961fe5cb55ae65
-  amplify_auth_cognito: e33255ea6c8fd07a559736e67eef73aa3c0ce12c
+  amplify_auth_cognito: af3d562913c44b5508a68ed73105a0488a56bf36
   amplify_core: e67fe0c53845db08aced670bfc7370b1329d2798
-  amplify_flutter: ea50126afb25e2b763faeaed623265f62a32d5bd
+  amplify_flutter: a9cf3bcae224df0ed90a239d81df969d470ae5cd
   AmplifyPlugins: 829c1ef5ed5d05e35d9cad3a9f0a9565913da411
   AWSAuthCore: ce2089f8af1680aa433f6302b028ac786632cc5b
   AWSCognitoIdentityProvider: a7e5caaade68cc93a92e3a888db30053dc167ee0

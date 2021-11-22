@@ -58,6 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
   bool _isAmplifyConfigured = false;
 
   Widget authenticator = Authenticator(
+    preferPrivateSession: true,
     child: HomePageScreen(),
   );
 

@@ -20,7 +20,7 @@ packages:
     description:
       path: "packages/amplify_auth_cognito"
       ref: amplify-authenticator
-      resolved-ref: "94d564904b05ff0b85057fee6d5f5b3c60094b7c"
+      resolved-ref: "4fd99094852dabb470d44cfa1f277f97b0e0187b"
       url: "https://github.com/aws-amplify/amplify-flutter.git"
     source: git
     version: "0.3.0-rc.2"
@@ -29,7 +29,7 @@ packages:
     description:
       path: "packages/amplify_auth_plugin_interface"
       ref: amplify-authenticator
-      resolved-ref: "94d564904b05ff0b85057fee6d5f5b3c60094b7c"
+      resolved-ref: "4fd99094852dabb470d44cfa1f277f97b0e0187b"
       url: "https://github.com/aws-amplify/amplify-flutter.git"
     source: git
     version: "0.3.0-rc.2"
@@ -38,7 +38,7 @@ packages:
     description:
       path: "packages/amplify_authenticator"
       ref: amplify-authenticator
-      resolved-ref: "94d564904b05ff0b85057fee6d5f5b3c60094b7c"
+      resolved-ref: "4fd99094852dabb470d44cfa1f277f97b0e0187b"
       url: "https://github.com/aws-amplify/amplify-flutter.git"
     source: git
     version: "0.0.1"
@@ -47,7 +47,7 @@ packages:
     description:
       path: "packages/amplify_core"
       ref: amplify-authenticator
-      resolved-ref: "94d564904b05ff0b85057fee6d5f5b3c60094b7c"
+      resolved-ref: "4fd99094852dabb470d44cfa1f277f97b0e0187b"
       url: "https://github.com/aws-amplify/amplify-flutter.git"
     source: git
     version: "0.3.0-rc.2"
@@ -56,7 +56,7 @@ packages:
     description:
       path: "packages/amplify_datastore_plugin_interface"
       ref: amplify-authenticator
-      resolved-ref: "94d564904b05ff0b85057fee6d5f5b3c60094b7c"
+      resolved-ref: "4fd99094852dabb470d44cfa1f277f97b0e0187b"
       url: "https://github.com/aws-amplify/amplify-flutter.git"
     source: git
     version: "0.3.0-rc.2"
@@ -65,7 +65,7 @@ packages:
     description:
       path: "packages/amplify_flutter"
       ref: amplify-authenticator
-      resolved-ref: "94d564904b05ff0b85057fee6d5f5b3c60094b7c"
+      resolved-ref: "4fd99094852dabb470d44cfa1f277f97b0e0187b"
       url: "https://github.com/aws-amplify/amplify-flutter.git"
     source: git
     version: "0.3.0-rc.2"
